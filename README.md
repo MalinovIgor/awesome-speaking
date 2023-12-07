@@ -21,7 +21,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [TED Talks: The Official TED Guide to Public Speaking](http://www.amazon.com/d/0544634497/) - by **Chris Anderson** (Houghton Mifflin Harcourt). Start to finish guide to giving powerful talks.
 
 ## CFP
-
+  
 *List of Call of Paper sites and services.*
 
 * [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
